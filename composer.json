@@ -1,5 +1,5 @@
 {
-    "name": "cycle/schema-builder",
+    "name": "wpjscc/schema-builder",
     "type": "library",
     "license": "MIT",
     "description": "Cycle ORM Schema Builder",
@@ -31,8 +31,8 @@
     ],
     "require": {
         "php": ">=8.0",
-        "cycle/orm": "^2.7",
-        "cycle/database": "^2.7.1",
+        "wpjscc/orm": "2.x-dev",
+        "wpjscc/database": "^2",
         "yiisoft/friendly-exception": "^1.1"
     },
     "require-dev": {
